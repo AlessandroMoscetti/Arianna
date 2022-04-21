@@ -1,0 +1,26 @@
+body {
+  background-image: url('media/cuori.jpg');
+}
+.container {
+  background-color: white;
+  border-radius: 50px;
+  margin-top: 250px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  text-align: center;
+}
+.ciao {
+  display: none;
+}
+.carousel-inner {
+  margin-top: 180px;
+}
+#foto {
+  width: 250px;
+  margin-left: 40px;
+  margin-bottom: 60px;
+}
+#abc {
+  position: absolute;
+  top:  200px;
+}
